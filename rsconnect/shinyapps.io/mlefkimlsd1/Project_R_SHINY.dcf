@@ -1,0 +1,12 @@
+name: Project_R_SHINY
+title: Project_R_SHINY
+username: mlefkimlsd1
+account: mlefkimlsd1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16277193
+bundleId: 11296827
+url: https://mlefkimlsd1.shinyapps.io/Project_R_SHINY/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
